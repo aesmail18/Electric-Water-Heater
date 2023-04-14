@@ -1,6 +1,8 @@
 # Electric-Water-Heater
 
 # AMIT Learning Graduation Project
+
+
 ## Description :
 
 An Electric Water Heater using AVR ATmega32 chip.
@@ -16,3 +18,7 @@ The Controller follows the following procedure:
 - if the user didn't click the UP or DOWN buttons for five seconds, it turns back to the ON state, and the chosen temperature is saved in the EEPROM once again.
 - The indication led is to know which element (Heater or Cooler) is working and in what state is the controller in.
 
+During the coding, the rules of MISRA C and AUTOSAR layered architecture have been considered.
+
+
+All the files have been uploaded to the following drive: 
